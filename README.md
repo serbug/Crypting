@@ -2,4 +2,4 @@
 
 Program de criptare/decriptare mesaj cu password si salvare intr-un fisier.
 
-Limbaj de programare: C
+Limbaj de programare: C / C++
